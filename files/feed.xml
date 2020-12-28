@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>My RSS Feed</title><link>https://github.com/TinyEars7/503.speed.git/index.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><language>en</language><dc:date>2020-12-26T18:53:55-08:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Sat, 26 Dec 2020 18:33:44 -0800</lastBuildDate><item><title>Mercedes SL 65 AMG</title><category>Cars</category><category>Mercedes</category><category>Photoshoot</category><dc:date>2020-12-26T18:53:55-08:00</dc:date><link>https://github.com/TinyEars7/503.speed.git/files/83407d93ddce01157bff2b3eba6efba8-0.html#unique-entry-id-0</link><guid isPermaLink="true">https://github.com/TinyEars7/503.speed.git/files/83407d93ddce01157bff2b3eba6efba8-0.html#unique-entry-id-0</guid><content:encoded><![CDATA[<img class="imageStyle" alt="118" src="https:/github.com/TinyEars7/503.speed.git/files/118.jpg" width="901" height="601" /><br /><br />Got the opportunity today to shoot an absolutely beautiful looking Mercedes SL65 AMG. Thing was stunning both inside and out. Personally, I'm not much of a Mercedes fan, but I can see why they've attracted such a large following over the decade with their attention to detail and uniqueness. And, let's be honest, the AMG GTR is one of the sexiest cars I've ever witnessed in person, so they're doing something right when it comes to design. Full resolution links below for anyone wanting these for wallpaper use, etc.]]></content:encoded></item></channel>
+</rss>
