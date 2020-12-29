@@ -74,7 +74,7 @@
 	<title>Contact 503 Speed</title>
 
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Voyager/consolidated-4.css?rwcache=630900594" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Voyager/consolidated-4.css?rwcache=630905637" />
 		
 
   <!-- Main Theme Stylesheet -->
@@ -105,8 +105,8 @@
 
 			<div class="navigation_alignment">
 				<div class="container">
-							<div class="navigation_overlay_site_logo"></div>
-							<h1 class="navigation_overlay_site_title">503.Speed</h1>
+							<div class="navigation_overlay_site_logo"><img src="../rw_common/images/WatermarkFinal503.png" width="1200" height="600" alt=""/></div>
+							<h1 class="navigation_overlay_site_title"></h1>
 							<div id="social_badges"></div>
 							<!-- <h2 class="navigation_overlay_site_slogan">Contact Us</h2> -->
 							<div id="main_navigation">
@@ -128,7 +128,7 @@
 			<!-- Branding // Site Title, Logo and Navigation -->
 			<div id="sticky_container">
 				<div class="navigation_bar container">
-					<div class="site_logo"></div> <h1 class="site_title">503.Speed</h1>
+					<div class="site_logo"><img src="../rw_common/images/WatermarkFinal503.png" width="1200" height="600" alt=""/></div> <h1 class="site_title"></h1>
 					<div id="navigation_toggle"><i class="fa fa-bars"></i></div>
 				</div>
 			</div>
@@ -209,16 +209,16 @@
 	</div>
 
 	<!-- jQuery 1.8 is included in the theme internally -->
-  <script src="../rw_common/themes/Voyager/js/jquery.min.js?rwcache=630900594"></script>
+  <script src="../rw_common/themes/Voyager/js/jquery.min.js?rwcache=630905637"></script>
 
 	<!-- Base RapidWeaver javascript -->
-	<script async type="text/javascript" src="../rw_common/themes/Voyager/javascript.js?rwcache=630900594"></script>
+	<script async type="text/javascript" src="../rw_common/themes/Voyager/javascript.js?rwcache=630905637"></script>
 
   <!-- Elixir theme specific javascript, along with jQuery Easing and a few other elements -->
-  <script src="../rw_common/themes/Voyager/js/elixir.js?rwcache=630900594"></script>
+  <script src="../rw_common/themes/Voyager/js/elixir.js?rwcache=630905637"></script>
 
 	<!-- Style variations -->
-	<script src="../rw_common/themes/Voyager/js/sidebar/sidebar_hidden.js?rwcache=630900594"></script>
+	<script src="../rw_common/themes/Voyager/js/sidebar/sidebar_hidden.js?rwcache=630905637"></script>
 		
 
 	<!-- User defined javascript -->
