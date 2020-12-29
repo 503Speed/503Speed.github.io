@@ -54,12 +54,12 @@
 		<meta name="generator" content="RapidWeaver" />
 		
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="contact-503-speed">
+	<meta name="twitter:title" content="Contact 503 Speed">
 	<meta name="twitter:image" content="https://github.com/TinyEars7/503.speed.git/resources/46.jpg">
 	<meta name="twitter:url" content="https://github.com/TinyEars7/503.speed.git/contact-503-speed/index.php">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="503.Speed">
-	<meta property="og:title" content="contact-503-speed">
+	<meta property="og:title" content="Contact 503 Speed">
 	<meta property="og:image" content="https://github.com/TinyEars7/503.speed.git/resources/46.jpg">
 	<meta property="og:url" content="https://github.com/TinyEars7/503.speed.git/contact-503-speed/index.php">
 
@@ -71,10 +71,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
 
   <!-- Browser title -->
-	<title>contact-503-speed</title>
+	<title>Contact 503 Speed</title>
 
 	<!-- Latest compiled and minified CSS -->
-	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Voyager/consolidated-4.css?rwcache=630836984" />
+	<link rel="stylesheet" type="text/css" media="all" href="../rw_common/themes/Voyager/consolidated-4.css?rwcache=630900594" />
 		
 
   <!-- Main Theme Stylesheet -->
@@ -209,16 +209,16 @@
 	</div>
 
 	<!-- jQuery 1.8 is included in the theme internally -->
-  <script src="../rw_common/themes/Voyager/js/jquery.min.js?rwcache=630836984"></script>
+  <script src="../rw_common/themes/Voyager/js/jquery.min.js?rwcache=630900594"></script>
 
 	<!-- Base RapidWeaver javascript -->
-	<script async type="text/javascript" src="../rw_common/themes/Voyager/javascript.js?rwcache=630836984"></script>
+	<script async type="text/javascript" src="../rw_common/themes/Voyager/javascript.js?rwcache=630900594"></script>
 
   <!-- Elixir theme specific javascript, along with jQuery Easing and a few other elements -->
-  <script src="../rw_common/themes/Voyager/js/elixir.js?rwcache=630836984"></script>
+  <script src="../rw_common/themes/Voyager/js/elixir.js?rwcache=630900594"></script>
 
 	<!-- Style variations -->
-	<script src="../rw_common/themes/Voyager/js/sidebar/sidebar_hidden.js?rwcache=630836984"></script>
+	<script src="../rw_common/themes/Voyager/js/sidebar/sidebar_hidden.js?rwcache=630900594"></script>
 		
 
 	<!-- User defined javascript -->
